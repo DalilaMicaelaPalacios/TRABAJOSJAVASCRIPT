@@ -10,6 +10,7 @@ Requisitos:
 • Almacena el número ingresado en una variable. 
 • Utiliza un operador aritmético para calcular el doble del número.*/
 
+
 console.log ("hola")
 
 const prompt = require("prompt-sync")();
