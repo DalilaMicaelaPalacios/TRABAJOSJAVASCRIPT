@@ -10,6 +10,7 @@ Requisitos:
 por 2. 
 • Usa una estructura if-else para mostrar el mensaje adecuado*/
 
+
 const prompt = require('prompt-sync')();
 
 // el usuario ingresa  un número entero
