@@ -10,7 +10,6 @@ Requisitos:
 verificaciones. 
 • Usa parseFloat() para convertir la entrada del usuario a un número*/
 
-
 const prompt = require('prompt-sync')();
 
 // el usuario ingresa un número
