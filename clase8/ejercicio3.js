@@ -10,6 +10,7 @@ Requisitos:
 • Utiliza parseFloat() para convertir las entradas a números. 
 • Almacena los resultados en variables adecuadas y muestra el resultado.*/
 
+
 const prompt = require('prompt-sync')();
 
 // se pide el ingreso de dos números cualquieras
