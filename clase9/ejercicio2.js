@@ -5,6 +5,7 @@ número y verifica si está dentro del rango definido por las constantes*/
 
 const prompt = require('prompt-sync')();
 
+
 // Definir constantes de rango
 const RANGO_MINIMO = 9;
 const RANGO_MAXIMO = 79;
