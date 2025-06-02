@@ -8,6 +8,7 @@ Requisitos:
 • Utiliza prompt() para recibir el nombre del usuario. 
 • Muestra un mensaje utilizando concatenación de cadenas*/
 
+
 const prompt = require('prompt-sync')();
 
 // el usuario ingresara el nombre
