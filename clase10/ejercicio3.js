@@ -18,12 +18,14 @@ sean declarados siempre con letras mayúsculas. Utiliza parseInt para convertir 
 usuario a un número entero*/
 
  const prompt = require('prompt-sync')();
- 
+
+ // Paso 1: se define las constantes para la edad mínima y máxima
 const EDAD_MINIMA=18;
 const EDAD_MAXIMA=99;
 
 let edad=prompt("Ingrese su edad: ");//usuario ingresa su edad
 
+// Paso 2: se valida o invalida la edad que ingreso el usuario con un if
 edad=parseInt(edad);
 if(edad>=EDAD_MINIMA && edad<=EDAD_MAXIMA){
     console.log("Edad válida.");
