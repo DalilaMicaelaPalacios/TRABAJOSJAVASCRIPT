@@ -15,7 +15,6 @@ const prompt = require('prompt-sync')();
 let peso = parseFloat(prompt("Ingrese su peso en kg: "));
 let altura = parseFloat(prompt("Ingrese su altura en mt: "));
 
-
 // Paso 2: Se calcula el IMC utilizando la fórmula dada en la consigna
 let imc = peso / (altura * altura);
 
