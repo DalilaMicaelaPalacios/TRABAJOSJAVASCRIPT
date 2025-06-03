@@ -31,7 +31,7 @@ let resultadoResta = primerNumero - segundoNumero;
 let resultadoMultiplicacion = primerNumero * segundoNumero;
 let resultadoDivision = primerNumero / segundoNumero;
 
-//mostrando resultados
+//mostrando resultados de las operaciones matematicas
 console.log("Resultado de la suma: " + resultadoSuma);
 console.log("Resultado de la resta: " + resultadoResta);
 console.log("Resultado de la multiplicación: " + resultadoMultiplicacion);
