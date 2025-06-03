@@ -12,8 +12,12 @@ al usuario, por lo que usaremos prompt-sync para solicitar esta información*/
 
  const prompt = require('prompt-sync')();
 
+
+// Paso 1: Se pide al usuario que ingrese su nombre, edad y peso
 let nombre= prompt("Ingrese su nombre: ");
 let edad=prompt("Ingrese su edad: ");
 let peso=prompt("Ingrese su peso: ")
+
+// Paso 2: Se muestra un mensaje personalizado con la información ingresada
 console.log("Hola " + nombre + ", tienes " + edad + " años y pesas " + peso + " kg."); //mje personalizado
 
