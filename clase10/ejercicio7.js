@@ -6,6 +6,7 @@ Muestra los valores antes y después del intercambio en la consola.
 Para intercambiar valores puedes usar varios métodos(usando una variable temporal, aritmética o asignación simultanea), 
 eres libre de elegir el que desees, eso si, investiga sobre el que usaras*/
 
+
 const prompt = require('prompt-sync')();
 
 // primero realizo la declaración de las variables
