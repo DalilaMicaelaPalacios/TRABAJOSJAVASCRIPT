@@ -17,5 +17,6 @@ let montoDescuento = precioOriginal * (porcentajeDescuento / 100);
 // Paso 3: Se calcula el precio final
 let precioFinal = precioOriginal - montoDescuento;
 
+
 // Paso 4: Se muestra el precio final en la consola
 console.log(`El precio final del producto después de aplicar el descuento es: ${precioFinal}`);
