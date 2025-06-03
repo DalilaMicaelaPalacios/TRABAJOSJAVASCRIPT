@@ -14,5 +14,6 @@ const mensaje = puedeSubir
   ? "✅ ¡Bienvenida a bordo, " + (nombre || "Tripulante Desconocido") + "!"
   : "⛔ Acceso denegado. No cumplís los requisitos.";
 
+  
 console.log(mensaje);
 
