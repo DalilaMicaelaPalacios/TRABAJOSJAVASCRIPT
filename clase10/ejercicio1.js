@@ -10,6 +10,8 @@ Pista: Recordemos que para crear una variable debemos utilizar la palabra reserv
 let edad = 30;        // Variable para la edad
 let peso = 65;        // Variable para el peso
 
+// se muestra por consola el valor guardado en las variables
+console.log("Datos del usuario:");
 console.log ("Nombre: ", nombre);
 console.log("Edad: ", edad);
 console.log("Peso: ", peso);
