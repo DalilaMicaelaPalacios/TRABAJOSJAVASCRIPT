@@ -8,6 +8,9 @@ a)	Lo que nos solicitan es dar el total de gastos en una semana. Recordemos que 
 b)	La aplicación también tendrá una parte de estadísticas, para esto nos solicitan dar el total de un día en particular, por ejemplo del día 3, acá también tengamos en cuenta lo que ocurre con las filas, ya que las columnas también comienzan en 0.
 c)	Por último, es necesario tener el total de gastos realizados en el mes.
 ✔	Pregunta para pensar, ¿es lo mismo recorrer por filas o por columnas para resolver este último punto?
+// Respuesta:
+No. Podemos recorrer:primero semanas (i), luego días (j) o primero días (j), luego semanas (i)
+
 d) Obtener cuál fue la semana que más gastos se realizaron. Indicar el día que más gastos se realizaron.
 ✔	Posibles matrices para comprobar los resultados.
  	Día 1	Día 2	Día 3	Día 4	Día 5	Día 6	Día 7
